@@ -8,4 +8,6 @@ Files "prediction_8x8" and "prediction_40x40" provide code for the results in th
 
 File "Anti-aliasing" includes codes for the "Anti-aliasing"-subsection.
 
-The Bayes utility experiment can be found from the folder "bayes_utility".
+The Bayes utility experiment can be found in the folder "bayes_utility".
+
+The repository is under development, and updates (such as creating the system matrices) are expected. 
